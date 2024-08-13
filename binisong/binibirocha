@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html>  
+  <head> 
+    <title> binisong </title>
+  </head>  
+    <script type="text/javascript"> 
+      alert("Hello ??!")
+      alert("tangina nyo!")
+      alert(" tara punta tayo grand biniverse! ")
+      alert("ipress nyo ung okay button")
+     </script>
+     <style>
+      
+   body{
+   background-image: url(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFvdWp4cGk5aXRxN3MzNGN0OG51Z2RqcXk2bm5vY3R3ZGtocDJveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qNU7Z2LKoMqEva1Mk9/giphy.gif);
+   background-size: cover;
+   background-attachment: fixed;
+ }
+  .content{
+  background: https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFvdWp4cGk5aXRxN3MzNGN0OG51Z2RqcXk2bm5vY3R3ZGtocDJveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qNU7Z2LKoMqEva1Mk9/giphy.gif;
+  width: 50%;
+  padding: 40px;
+  margin: 100px auto;
+ }
+</style>
+</html>
